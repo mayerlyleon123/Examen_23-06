@@ -18,5 +18,11 @@
         "icon": "ellipsis-horizontal-circle-outline",
         "name": "Button",
         "redirectTo": "/button"
+    },
+    {
+        "icon": "ellipsis-horizontal-circle-outline",
+        "name": "Inputt",
+        "redirectTo": "/inputt"
     }
+    
 ]
