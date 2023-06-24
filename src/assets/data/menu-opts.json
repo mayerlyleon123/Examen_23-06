@@ -20,7 +20,7 @@
         "redirectTo": "/button"
     },
     {
-        "icon": "ellipsis-horizontal-circle-outline",
+        "icon": "reader-outline",
         "name": "Inputt",
         "redirectTo": "/inputt"
     }
